@@ -1,0 +1,21 @@
+header{
+    margin: 2% 3%;
+}
+
+.content{
+    margin: 2% 3%;
+}
+
+label, input, button, li{
+    margin: 5px;
+}
+
+#add, .edit{
+    background-color: green;
+    color: white;
+}
+
+.complete{
+    background-color: red;
+    color: white;
+}
